@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "tuple": "cpp",
+    "vector": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp"
+  }
+}
