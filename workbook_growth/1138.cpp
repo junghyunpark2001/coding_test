@@ -25,7 +25,6 @@ int main(){
                 continue;
             if(cnt == people[i]){
                 result[j] = i;
-                cout<<i<<'\n';
                 break;
             }
             cnt++;
