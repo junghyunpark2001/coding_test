@@ -1,9 +1,12 @@
 {
+
   "files.associations": {
     "iostream": "cpp",
     "tuple": "cpp",
     "vector": "cpp",
     "initializer_list": "cpp",
     "iosfwd": "cpp"
-  }
+  },
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.errorSquiggles": "enabled",
 }
