@@ -5,7 +5,8 @@
     "tuple": "cpp",
     "vector": "cpp",
     "initializer_list": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "ios": "cpp"
   },
   "C_Cpp.default.cppStandard": "c++17",
   "C_Cpp.errorSquiggles": "enabled",
